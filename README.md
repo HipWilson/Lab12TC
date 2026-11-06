@@ -5,7 +5,7 @@ Lenguaje utilizado: **JavaScript (Node.js)**, con funciones flecha (`=>`) como l
 
 ## Video de ejecución
 
-[PEGAR AQUÍ EL LINK DE YOUTUBE (VIDEO NO LISTADO)]
+[Video de la demostración](https://youtu.be/wgyn2fxYzPk)
 
 ## Estructura
 
